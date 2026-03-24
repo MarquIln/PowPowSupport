@@ -1,2 +1,2 @@
 # PowPowSupport
-Support og Pow Po Po Game
+Support of Pow Po Po Game
